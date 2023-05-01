@@ -546,3 +546,5 @@ if __name__ == "__main__":
 
     if a.files and a.o is not None:
         save_files(out_dir)
+
+        export SLACK_USER_TOKEN=xapp-1-A055F7ALBLN-5215556794576-3e3101322dcefd3a38f33ae7d2399663c92425c8ba0e05c46ed6dae280ba1a26
